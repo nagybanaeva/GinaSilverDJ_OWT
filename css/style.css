@@ -1,0 +1,65 @@
+
+@charset "utf-8";
+
+* {
+box-sizing: border-box;
+}
+
+#top{
+}
+
+.center-box{
+}
+
+#logo {
+}
+
+#slider{
+}
+
+
+#slider-text {
+}
+
+
+#button {
+    
+}
+
+#slider-img {
+}
+
+#content {
+}
+
+#gallery {
+}
+
+#main-content {
+}
+
+#footer-blog {
+}
+
+#footer-insta {
+}
+
+#footer-links {
+}
+
+#copyright {
+}
+
+#copy-text {
+}
+
+#copy-links {
+}
+
+
+
+@media (min-width: px) {
+ {
+    
+    }
+}
